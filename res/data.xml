@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<menu>
+    <food>
+        <name>돈까스</name>
+        <price>6000</price>
+        <category>일식</category>
+    </food>
+    <food>
+        <name>닭칼국수</name>
+        <price>8000</price>
+        <category>한식</category>
+    </food>
+    <food>
+        <name>삼겹살</name>
+        <price>18000</price>
+        <category>한식</category>
+    </food>
+    
+</menu>
